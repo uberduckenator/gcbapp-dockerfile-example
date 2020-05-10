@@ -15,3 +15,4 @@
 
 echo "Hello, world!"
 echo "The time is $(date)."
+echo "Damn son. Where'd you find this?"
